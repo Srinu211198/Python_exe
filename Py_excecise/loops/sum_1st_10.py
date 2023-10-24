@@ -5,11 +5,11 @@ for i in range(1,11):
 
 # WAP to search a given program from list
 
-l = [4,5,6,7,8,9,10,1,11,12,13,14]
-n = int(input("Enter the number:")
-
-for i in l:
-        if n == i:
-            print("number exists"}
-        else:
-            print("number doesn't exists")
+l1= [4,5,6,7,8,9,10,1,11,12,13,14]
+n = int(input("Enter the number:"))
+for i in l1:
+    if n == i:
+        print("number exists")
+        break
+else:
+    print("number doesn't exists")
