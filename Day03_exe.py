@@ -1,3 +1,5 @@
+print("this is about using variable in some math functions");
+
 # Declare your age as integer variable
 # Declare your height as a float variable
 # Declare a variable that store a complex number
