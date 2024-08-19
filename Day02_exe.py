@@ -1,3 +1,5 @@
+print("This is about data type");
+
 first_name = "Harry"
 last_name = "Potter"
 age = 21    
