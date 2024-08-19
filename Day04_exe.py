@@ -1,3 +1,5 @@
+print("This is about the String and format specifiers");
+
 letter = 'P'
 print(letter)
 print(len(letter))
