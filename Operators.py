@@ -1,6 +1,6 @@
 # Arithmetic Operations in Python
 # Integers
-print("this is all about arithmatics");
+print("this is all about arithmatics  ");
 print('Addition: ', 1 + 2)        # 3
 print('Subtraction: ', 2 - 1)     # 1
 print('Multiplication: ', 2 * 3)  # 6
